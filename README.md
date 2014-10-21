@@ -1,4 +1,4 @@
-# Hailo API wrapper
+# Hailo API wrapper [![Build Status](https://travis-ci.org/mmolina/hailo-node.svg?branch=master)](https://travis-ci.org/mmolina/hailo-node)
 
 Node module for accessing the Hailo API. Happy hailing! :)
 
