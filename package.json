@@ -9,6 +9,11 @@
     "hailo",
     "hailoapp"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mmolina/hailo-node.git"
+  },
+  "bugs:": "https://github.com/mmolina/hailo-node/issues",
   "dependencies": {
     "bluebird": "^2.3.6",
     "request": "^2.45.0"
