@@ -15,14 +15,13 @@
   },
   "bugs:": "https://github.com/mmolina/hailo-node/issues",
   "dependencies": {
-    "bluebird": "^2.3.6",
-    "request": "^2.45.0"
+    "bluebird": "~2.3.6",
+    "request": "~2.45.0"
   },
   "devDependencies": {
-    "mocha": "~1.13.0",
+    "mocha": "~1.18.0",
     "chai": "~1.8.0",
     "chai-as-promised": "~4.0.0",
-    "mocha-as-promised": "~1.4.0",
     "restify": "~2.8.3"
   },
   "scripts": {
