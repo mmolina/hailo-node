@@ -49,13 +49,13 @@ The required parameters are:
  * qs: The request parameters themselves, query string.
 
 For example:
-```json
+```
 {
   resource: '/foo/bar'
   , method: 'GET'
   , qs: {
-    'latitude': x
-    , 'longitude': y
+    param1: 'asdfg'
+    , param2: 'qwerty'
   }
 }
 ```
