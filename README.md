@@ -62,7 +62,7 @@ For example:
 
 ## Tests
 
-There are some [mocha](http://visionmedia.github.io/mocha/) tests included in the source. To run them just execute:
+There are some [mocha](http://mochajs.org/) tests included in the source. To run them just execute:
 
 ```bash
 npm test
